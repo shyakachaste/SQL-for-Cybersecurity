@@ -7,6 +7,7 @@ Each topic includes explanations, syntax, practical examples, and common cyberse
 ## Topics Covered
 
 - SQL Fundamentals
+- Filtering Data
 
 ---
 
