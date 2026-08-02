@@ -1,2 +1,13 @@
-# SQL-for-Cybersecurity
-This repository contains my personal SQL notes, query references, and hands-on examples while learning SQL for cybersecurity.  Each topic includes explanations, syntax, practical examples, and common cybersecurity use cases to help build a strong understanding of SQL.
+# SQL for Cybersecurity
+
+This repository contains my personal SQL notes, query references, and hands-on examples as I learn SQL for cybersecurity.
+
+Each topic includes explanations, syntax, practical examples, and common cybersecurity use cases to help build a strong understanding of SQL.
+
+## Topics Covered
+
+- SQL Fundamentals
+
+---
+
+> This repository will continue to grow as I learn new SQL concepts.
