@@ -9,6 +9,7 @@ Each topic includes explanations, syntax, practical examples, and common cyberse
 - SQL Fundamentals
 - Filtering Data
 - Logical Operators
+- SQL Joins
 
 ---
 
