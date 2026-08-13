@@ -1,16 +1,16 @@
 # SQL for Cybersecurity
 
-This repository contains my personal SQL notes, query references, and hands-on examples as I learn SQL for cybersecurity.
+This repository contains my personal SQL notes, query references, and hands-on exercises completed as part of the Google Cybersecurity Program.
 
-Each topic includes explanations, syntax, practical examples, and common cybersecurity use cases to help build a strong understanding of SQL.
+The topics covered here document the SQL concepts and practical queries I learned and practiced throughout the program, with a focus on their use in cybersecurity.
 
 ## Topics Covered
 
-- SQL Fundamentals
-- Filtering Data
-- Logical Operators
+- Performing SQL Queries
+- Filtering SQL Queries
+- Filtering with AND, OR, and NOT
 - SQL Joins
 
 ---
 
-> This repository will continue to grow as I learn new SQL concepts.
+> These notes and exercises were completed as part of the Google Cybersecurity Certificate.
