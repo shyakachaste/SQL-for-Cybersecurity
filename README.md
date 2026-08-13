@@ -1,6 +1,6 @@
 # SQL for Cybersecurity
 
-This repository contains my personal SQL notes, query references, and hands-on exercises completed as part of the Google Cybersecurity Program.
+This repository contains my personal SQL notes, query references, and hands-on exercises completed as part of the Google Cybersecurity Certificate.
 
 The topics covered here document the SQL concepts and practical queries I learned and practiced throughout the program, with a focus on their use in cybersecurity.
 
